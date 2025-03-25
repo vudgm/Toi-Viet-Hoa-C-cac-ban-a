@@ -46,6 +46,8 @@ chỉ dẫn:
     #define toi_chiu_ban_a cin.tie(0)
     #define cai_nay_toi_cung_chiu_not cout.tie(0)
     #define sap_xep sort
+    #define xuong_dong '\n'
+    #define phan_tu_o_vi_tri at
 
 Cách sử dụng:
   Bước 1: Down file về
