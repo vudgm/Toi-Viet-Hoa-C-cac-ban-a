@@ -1,4 +1,4 @@
-/*Made by vudgm*/
+/*Made by Gia Minh*/
 #include <bits/stdc++.h>
 using namespace std; // uh thi cai viet hoa nay van dua tren std nen van dung using namespace std =))
 namespace viethoa{
@@ -48,4 +48,6 @@ namespace viethoa{
     #define toi_chiu_ban_a cin.tie(0)
     #define cai_nay_toi_cung_chiu_not cout.tie(0)
     #define sap_xep sort
+    #define xuong_dong '\n'
+    #define phan_tu_o_vi_tri at
 }
