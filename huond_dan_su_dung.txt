@@ -50,7 +50,7 @@ chỉ dẫn:
     #define phan_tu_o_vi_tri at
 
 Cách sử dụng:
-  Bước 1: Down file về
+  Bước 1: Tải file về
   Bước 2: viết đoạn "#include "tiengViet.hpp""
   Bước 3: Viết thêm cái "using namespace viethoa"
   và thế là xong!
