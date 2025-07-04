@@ -47,7 +47,7 @@ chỉ dẫn:
     #define cai_nay_toi_cung_chiu_not cout.tie(0)
     #define sap_xep sort
     #define xuong_dong '\n'
-    #define phan_tu_o_vi_tri at
+    `phan_tu_o_vi_tri = at`
 
 Cách sử dụng:
   Bước 1: Tải file về
