@@ -55,7 +55,6 @@ Cách sử dụng:
   Bước 3: Viết thêm cái "using namespace viethoa"
   và thế là xong!
 code mẫu:
-#include<bits/stdc++.h>
 #include "tiengViet.hpp"
 using namespace viethoa;
 
